@@ -1,0 +1,82 @@
+
+#clock{
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+    color: white;
+    font-size: 50px;
+    margin: auto 0;
+    text-align: center;
+    background-color: black;
+    float: left;
+    display: flex;
+    justify-content: center; /* align horizontal */
+    align-items: center;
+    position: relative;
+}
+#ireland p{
+    color: black;
+    font-style: italic;
+    font-size: 50px;
+}
+#ny p{
+    color: black;
+    font-style: italic;
+    font-size: 50px;
+    position: relative;
+    left: 160px;
+}
+#tokyo2 p{
+    color: black;
+    font-style: italic;
+    font-size: 50px;
+    position: relative;
+    left: 60px;
+    
+}
+
+
+#day{
+    height: 100%;
+    width: 100%;
+    color: black;
+    font-size: 50px;
+    margin: auto 0;
+    text-align: center;
+    padding-top: 200px;
+    
+    
+}
+#clockNy{
+    display: flex;
+    justify-content: center; /* align horizontal */
+    align-items: center;
+    position: relative;
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+    color: white;
+    font-size: 50px;
+    margin: auto 0;
+    text-align: center;
+    background-color: black;
+    float: left;
+}
+p{
+
+}
+#tokyo{
+    display: flex;
+    justify-content: center; /* align horizontal */
+    align-items: center;
+    position: relative;
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+    color: white;
+    font-size: 50px;
+    margin: auto 0;
+    text-align: center;
+    background-color: black;
+    float: left;
+}
